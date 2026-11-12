@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-labelledby="title desc">
+  <title id="title">Abduali — Personal Engineering Journal</title>
+  <desc id="desc">A quiet editorial-style profile header, marking the beginning of a learning journey on 12 November 2026 at age 14.</desc>
+  <rect width="1200" height="286" rx="10" fill="#191D1E"/>
+  <rect x="34" y="34" width="4" height="218" fill="#C69A72"/>
+  <text x="68" y="62" fill="#A5ADA7" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.2">PERSONAL ENGINEERING JOURNAL</text>
+  <text x="64" y="153" fill="#F0EEE8" font-family="Georgia, 'Times New Roman', serif" font-size="78" letter-spacing="-2">Abduali</text>
+  <text x="69" y="194" fill="#C0C7C1" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.5">SOFTWARE  /  NETWORKS  /  SECURITY</text>
+  <line x1="69" y1="222" x2="727" y2="222" stroke="#3A4240" stroke-width="1"/>
+  <text x="69" y="247" fill="#969F98" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.4">LEARN WITH CURIOSITY. BUILD WITH CARE.</text>
+  <line x1="824" y1="45" x2="824" y2="241" stroke="#3A4240" stroke-width="1"/>
+  <text x="868" y="83" fill="#A5ADA7" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.6">THE BEGINNING</text>
+  <text x="868" y="126" fill="#F0EEE8" font-family="Georgia, 'Times New Roman', serif" font-size="28">12 November 2026</text>
+  <text x="868" y="164" fill="#C0C7C1" font-family="Arial, Helvetica, sans-serif" font-size="16">Started at 14</text>
+  <text x="868" y="220" fill="#C69A72" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">ISSUE 001  ·  IN PROGRESS</text>
+</svg>
